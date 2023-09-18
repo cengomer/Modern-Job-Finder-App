@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "offerImage": "offer1.jpg",
+    "offerTitle": "Senior iOS Developer",
+    "companyName": "TechCo",
+    "companyRegion": "San Francisco, CA",
+    "offerHashtags": ["iOS", "Swift", "Mobile", "Development"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 20,
+    "publishedDate": "2023-07-25"
+  },
+  {
+    "id": "2",
+    "offerImage": "offer2.jpg",
+    "offerTitle": "Frontend Web Developer",
+    "companyName": "Web Solutions Inc.",
+    "companyRegion": "New York, NY",
+    "offerHashtags": ["HTML", "CSS", "JavaScript", "React"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 15,
+    "publishedDate": "2023-07-24"
+  },
+  {
+    "id": "3",
+    "offerImage": "offer3.jpg",
+    "offerTitle": "Product Manager",
+    "companyName": "Innovative Products Co.",
+    "companyRegion": "Los Angeles, CA",
+    "offerHashtags": ["Product Management", "Strategy", "Marketing"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 10,
+    "publishedDate": "2023-07-23"
+  },
+  {
+    "id": "4",
+    "offerImage": "offer4.jpg",
+    "offerTitle": "Backend Developer",
+    "companyName": "Code Masters Ltd.",
+    "companyRegion": "London, UK",
+    "offerHashtags": ["Backend", "Java", "Python", "Node.js"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 12,
+    "publishedDate": "2023-07-22"
+  },
+  {
+    "id": "5",
+    "offerImage": "offer5.jpg",
+    "offerTitle": "UX/UI Designer",
+    "companyName": "Design Innovations",
+    "companyRegion": "Berlin, Germany",
+    "offerHashtags": ["UX", "UI", "Design", "Prototyping"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 8,
+    "publishedDate": "2023-07-21"
+  },
+  {
+    "id": "6",
+    "offerImage": "Spotify",
+    "offerTitle": "Data Scientist",
+    "companyName": "Data Insights Corp.",
+    "companyRegion": "Tokyo, Japan",
+    "offerHashtags": ["Data Science", "Machine Learning", "Python"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 18,
+    "publishedDate": "2023-07-20"
+  },
+  {
+    "id": "7",
+    "offerImage": "offer7.jpg",
+    "offerTitle": "Mobile App Developer",
+    "companyName": "App Creators LLC",
+    "companyRegion": "Toronto, Canada",
+    "offerHashtags": ["Mobile", "Android", "iOS", "Flutter"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 14,
+    "publishedDate": "2023-07-19"
+  },
+  {
+    "id": "8",
+    "offerImage": "offer8.jpg",
+    "offerTitle": "DevOps Engineer",
+    "companyName": "Cloud Services Co.",
+    "companyRegion": "Seattle, WA",
+    "offerHashtags": ["DevOps", "AWS", "Docker", "Kubernetes"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 9,
+    "publishedDate": "2023-07-18"
+  },
+  {
+    "id": "9",
+    "offerImage": "offer9.jpg",
+    "offerTitle": "Full Stack Developer",
+    "companyName": "Tech Fusion",
+    "companyRegion": "Austin, TX",
+    "offerHashtags": ["Full Stack", "JavaScript", "React", "Node.js"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 16,
+    "publishedDate": "2023-07-17"
+  },
+  {
+    "id": "10",
+    "offerImage": "airbnb",
+    "offerTitle": "Cybersecurity Analyst",
+    "companyName": "Secure Systems Inc.",
+    "companyRegion": "Sydney, Australia",
+    "offerHashtags": ["Cybersecurity", "Networking", "Security"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 11,
+    "publishedDate": "2023-07-16"
+  },
+  {
+    "id": "11",
+    "offerImage": "Spotify",
+    "offerTitle": "Game Developer",
+    "companyName": "GameWorks Studios",
+    "companyRegion": "Seoul, South Korea",
+    "offerHashtags": ["Game Development", "Unity", "C#"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 22,
+    "publishedDate": "2023-07-15"
+  },
+  {
+    "id": "12",
+    "offerImage": "figma",
+    "offerTitle": "AI/ML Engineer",
+    "companyName": "Smart AI Solutions",
+    "companyRegion": "Beijing, China",
+    "offerHashtags": ["AI", "Machine Learning", "Python", "TensorFlow"],
+    "applicantsImage": "ai",
+    "applicantsNumber": 13,
+    "publishedDate": "2023-07-14"
+  }
+]
